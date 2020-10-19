@@ -1,0 +1,10 @@
+Concept, design and implementation of fully functional e-shop web application,where the users can buy and sellsecond hand clothes.
+
+------- Thrifting DB Front End ----------
+
+Run npm install to install the required dependecies
+
+
+------- Thrifting DB Back End -----------
+
+Before you run the application please proceed to Clean and Build.After that deploy the application in a Tomcat Server
